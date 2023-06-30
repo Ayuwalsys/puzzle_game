@@ -6,7 +6,6 @@
 
 ---- Source Files: ----
  
-We used:
 - Tiles images, 
 - Puzzle metadata (fifteen.puz, Luigi.puz, mario.puz, malformed_mario.puz, smiley.puz), 
 - Resources images that send the user a message.
